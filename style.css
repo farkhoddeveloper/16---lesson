@@ -65,12 +65,4 @@ h1{
     justify-content: center;
 }
 
-input{
-    width: 500px;
-    height: 100px;
-    margin-left: 45px;
-    align-items: center;
-    border: gray solid 1px;
-    border-radius: 15px; 
-}
 
