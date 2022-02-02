@@ -65,18 +65,18 @@ h1{
 }
 
 input{
-    width: 189px;
+    width: 312px;
     height: 50px;
-    margin-left: -4px;
+    margin-left: 121px;
     align-items: center;
     border: gray solid 1px;
     border-radius: 15px;
-    padding: 5px;
+    padding: 10px;
     
 }
 
 select{
-    width: 160px;
+    width: 108px;
     height: 50px;
     border: gray solid 1px;
     border-radius: 15px;
@@ -87,7 +87,7 @@ div{
     width: 300px;
     height: 50px;
     background-color: #ffffff;
-    margin: 30px -6px;
-    padding: 15px 2px;
+    margin: 31px 121px;
+    padding: 17px 11px;
     border-radius: 15px;
 }
