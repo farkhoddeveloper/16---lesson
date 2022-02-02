@@ -5,7 +5,11 @@
     font-family: 'Roboto', sans-serif;
 }
 
-@media (max-width:390px){
+@media (min-width:390px){
+    html{
+        width: 100%;
+        height: 100vh;
+    }
     body{
         width: 100%;
         height: 100vh;
