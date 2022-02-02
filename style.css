@@ -66,12 +66,11 @@ h1{
 }
 
 input{
-    width: 300px;
+    width: 500px;
     height: 100px;
     margin-left: 45px;
     align-items: center;
     border: gray solid 1px;
-    border-radius: 15px;
-    padding: 10px; 
+    border-radius: 15px; 
 }
 
